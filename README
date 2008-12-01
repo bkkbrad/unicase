@@ -1,0 +1,1 @@
+Unicase handles some of the issues I was having with processing UTF-8 text: no understanding of non-ascii capitalization.
